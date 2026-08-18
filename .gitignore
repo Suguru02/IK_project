@@ -1,4 +1,6 @@
 *.pth
 dataset/panda_dataset/
-__pycache__
-dataset/__pycache__
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
